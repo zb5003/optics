@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d251c8de-310b-4f4d-aacc-9e1b7331b615" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/materials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Birefringence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Birefringence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/birefringence.py" beforeDir="false" afterPath="$PROJECT_DIR$/birefringence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nonlinear.py" beforeDir="false" afterPath="$PROJECT_DIR$/nonlinear.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +16,10 @@
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Birefringence.py">
+            <entry file="file://$PROJECT_DIR$/birefringence.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="438">
-                  <caret line="546" selection-start-line="546" selection-end-line="546" />
+                <state relative-caret-position="387">
+                  <caret line="351" selection-start-line="351" selection-end-line="351" />
                   <folding>
                     <element signature="e#0#18#0" expanded="true" />
                   </folding>
@@ -32,11 +31,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/materials.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1479">
-                  <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+                <state>
+                  <caret column="14" selection-start-column="14" selection-end-column="14" />
                   <folding>
                     <element signature="e#4325#4539#1" expanded="true" />
                     <element signature="e#4579#4740#0" expanded="true" />
@@ -44,6 +43,15 @@
                     <element signature="e#5180#5550#0" expanded="true" />
                     <element signature="e#5585#5955#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nonlinear.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="192" column="126" selection-start-line="192" selection-start-column="126" selection-end-line="192" selection-end-column="126" />
                 </state>
               </provider>
             </entry>
@@ -74,6 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/Birefringence.py" />
         <option value="$PROJECT_DIR$/materials.py" />
+        <option value="$PROJECT_DIR$/birefringence.py" />
+        <option value="$PROJECT_DIR$/nonlinear.py" />
       </list>
     </option>
   </component>
@@ -131,7 +141,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549303248631</updated>
-      <workItem from="1549303250034" duration="3074000" />
+      <workItem from="1549303250034" duration="3353000" />
     </task>
     <task id="LOCAL-00001" summary="Added Readme">
       <created>1549305083055</created>
@@ -140,11 +150,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549305083055</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created a new branch and the library materials.py.">
+      <created>1549309286584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549309286584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the library nonlinear.py">
+      <created>1549309515220</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549309515220</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3074000" />
+    <option name="totallyTimeSpent" value="3353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -178,23 +202,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Readme" />
+    <MESSAGE value="Created a new branch and the library materials.py." />
+    <MESSAGE value="Added the library nonlinear.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the library nonlinear.py" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Birefringence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="546" selection-start-line="546" selection-end-line="546" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/materials.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1479">
-          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
           <folding>
             <element signature="e#4325#4539#1" expanded="true" />
             <element signature="e#4579#4740#0" expanded="true" />
@@ -202,6 +218,23 @@
             <element signature="e#5180#5550#0" expanded="true" />
             <element signature="e#5585#5955#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/birefringence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="351" selection-start-line="351" selection-end-line="351" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nonlinear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="192" column="126" selection-start-line="192" selection-start-column="126" selection-end-line="192" selection-end-column="126" />
         </state>
       </provider>
     </entry>
