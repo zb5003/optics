@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d251c8de-310b-4f4d-aacc-9e1b7331b615" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/birefringence.py" beforeDir="false" afterPath="$PROJECT_DIR$/birefringence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nonlinear.py" beforeDir="false" afterPath="$PROJECT_DIR$/nonlinear.py" afterDir="false" />
-    </list>
+    <list default="true" id="d251c8de-310b-4f4d-aacc-9e1b7331b615" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +15,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/birefringence.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="387">
+                <state relative-caret-position="102">
                   <caret line="351" selection-start-line="351" selection-end-line="351" />
                   <folding>
                     <element signature="e#0#18#0" expanded="true" />
@@ -50,8 +47,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/nonlinear.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="192" column="126" selection-start-line="192" selection-start-column="126" selection-end-line="192" selection-end-column="126" />
+                <state relative-caret-position="136">
+                  <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
                 </state>
               </provider>
             </entry>
@@ -141,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549303248631</updated>
-      <workItem from="1549303250034" duration="3353000" />
+      <workItem from="1549303250034" duration="3643000" />
     </task>
     <task id="LOCAL-00001" summary="Added Readme">
       <created>1549305083055</created>
@@ -164,15 +161,28 @@
       <option name="project" value="LOCAL" />
       <updated>1549309515220</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Moved the class SFG to nonlinear.py">
+      <created>1549309558151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549309558151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="stuff">
+      <created>1549309801457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549309801457</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3353000" />
+    <option name="totallyTimeSpent" value="3643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.24962178" />
@@ -181,7 +191,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32993197" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49924356" weight="0.48469388" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49924356" visible="true" weight="0.48469388" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -204,7 +214,9 @@
     <MESSAGE value="Added Readme" />
     <MESSAGE value="Created a new branch and the library materials.py." />
     <MESSAGE value="Added the library nonlinear.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the library nonlinear.py" />
+    <MESSAGE value="Moved the class SFG to nonlinear.py" />
+    <MESSAGE value="stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="stuff" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/materials.py">
@@ -223,7 +235,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/birefringence.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
+        <state relative-caret-position="102">
           <caret line="351" selection-start-line="351" selection-end-line="351" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -233,8 +245,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nonlinear.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="192" column="126" selection-start-line="192" selection-start-column="126" selection-end-line="192" selection-end-column="126" />
+        <state relative-caret-position="136">
+          <caret line="168" lean-forward="true" selection-start-line="168" selection-end-line="168" />
         </state>
       </provider>
     </entry>
